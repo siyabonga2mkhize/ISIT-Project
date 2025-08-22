@@ -1,0 +1,3 @@
+[submodule "CalendarLib"]
+	path = CalendarLib
+	url = https://github.com/siyabonga2mkhize/ISIT-Calender.git
